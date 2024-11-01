@@ -1,0 +1,15 @@
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\bin\Debug\net6.0\DutchBingo.exe
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\bin\Debug\net6.0\DutchBingo.deps.json
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\bin\Debug\net6.0\DutchBingo.runtimeconfig.json
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\bin\Debug\net6.0\DutchBingo.dll
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\bin\Debug\net6.0\DutchBingo.pdb
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\DutchBingo.csproj.AssemblyReference.cache
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\DutchBingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\DutchBingo.AssemblyInfoInputs.cache
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\DutchBingo.AssemblyInfo.cs
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\DutchBingo.csproj.CoreCompileInputs.cache
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\DutchBingo.dll
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\refint\DutchBingo.dll
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\DutchBingo.pdb
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\DutchBingo.genruntimeconfig.cache
+C:\Users\cabro\OneDrive - Calvin University\C# Programs\DutchBingo\obj\Debug\net6.0\ref\DutchBingo.dll
