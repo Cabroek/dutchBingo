@@ -35,4 +35,4 @@ Dutch Bingo is a C# console application that represents and explores family rela
 ```plaintext
 Enter a command: read big.rg
 Enter a command: Orphans
-Enter a command: Bingo John Mary
+Enter a command: Bingo Sarah Eliah
