@@ -33,6 +33,6 @@ Dutch Bingo is a C# console application that represents and explores family rela
 ## Example Command Sequence
 
 ```plaintext
-Enter a command: read relationships.txt
+Enter a command: read big.rg
 Enter a command: Orphans
 Enter a command: Bingo John Mary
