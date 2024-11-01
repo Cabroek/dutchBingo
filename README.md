@@ -15,7 +15,7 @@ Dutch Bingo is a C# console application that represents and explores family rela
 ## Usage
 
 1. **Load Family Data**:
-   Add a .txt file to the correct path with people's names and relationships
+   Add a text file to the correct path with people's names and relationships. Or, use the existing example .rg files.
 
 2. **Commands**:
    After loading data, the program supports commands like:
